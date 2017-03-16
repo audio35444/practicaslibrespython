@@ -23,4 +23,7 @@ finally:
 	print "siempre se ejecuta","usar para cerrar conexiones por ejemplo"
 
 
-print "Chau"
+numero = 11
+calculo = 5.126545456
+name= "Juan Emmanuel"
+print "el Numero es: %d - calculo: %.3f\nrealizado por: %.6s"%(numero,calculo,name)
